@@ -17,7 +17,7 @@
                             <div class="slider_text ">
                                 <h3>Социально-образовательная платформа
                                     для подростков Казахстана</h3>
-                            
+
                             </div>
                         </div>
                     </div>
@@ -27,6 +27,49 @@
         </div>
     </div>
     <!-- slider_area_end -->
+    <!-- slider_area_start -->
+
+<div class="slider_area">
+    <div class="popular_program_area section__padding single_slider2 slider_bg_2">
+        <div class="container">
+            <div class="tab-content" id="nav-tabContent">
+                <div class="show active owl-carousel" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
+                    <div class="row1 align-items-center">
+                        <div class="col-lg-4 col-md-6">
+                            <div class="single__program">
+                                <div class="program_thumb">
+                                    <img src="/img/about/Maksat.png" alt="Максат Кузембаев">
+                                </div>
+                                <div class="name">
+                                    <p class="maksat">Максат Кузембаев</p>
+                                    <p class="founder">Founder</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="slider_text2">
+                                <ul>
+                                    <li>14 лет в Business development sales marketing(B2B)</li>
+                                    <li>Отвечал за запуск и развитие QR платежей в Казахстане и СНГ</li>
+                                    <li>Adviser в сфере: Fintech, E-commerce, Marketing, PR.</li>
+                                    <li>Участие в проектах: Smart Pay, Учёт.kz, Parqour, Office- Expert</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-lg-2">
+                            <div class="single__program">
+                                <div class="program_thumb">
+                                    <img src="/img/about/qr.png" alt="QR">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
 
     <!-- service_area_start  -->
     <div class="service_area gray_bg">
