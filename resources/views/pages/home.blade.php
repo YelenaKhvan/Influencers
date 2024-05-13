@@ -29,66 +29,38 @@
     <!-- slider_area_end -->
     <!-- slider_area_start -->
 
-<div class="slider_area">
-    <div class="popular_program_area section__padding single_slider2 slider_bg_2">
-        <div class="container">
-            <div class="tab-content" id="nav-tabContent">
-                <div class="show active owl-carousel" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
-                    <div class="row1 align-items-center">
-                        <div class="col-lg-4 col-md-6">
-                            <div class="single__program">
-                                <div class="program_thumb">
-                                    <img src="/img/about/Maksat.png" alt="Максат Кузембаев">
-                                </div>
-                                <div class="name">
-                                    <p class="maksat">Максат Кузембаев</p>
-                                    <p class="founder">Founder</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-6">
-                            <div class="slider_text2">
-                                <ul>
-                                    <li>14 лет в Business development sales marketing(B2B)</li>
-                                    <li>Отвечал за запуск и развитие QR платежей в Казахстане и СНГ</li>
-                                    <li>Adviser в сфере: Fintech, E-commerce, Marketing, PR.</li>
-                                    <li>Участие в проектах: Smart Pay, Учёт.kz, Parqour, Office- Expert</li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="col-lg-2">
-                            <div class="single__program">
-                                <div class="program_thumb">
-                                    <img src="/img/about/qr.png" alt="QR">
+    <div class="slider_area">
+        <div class="popular_program_area section__padding single_slider2 slider_bg_2">
+            <div class="container">
+                <div class="tab-content" id="nav-tabContent">
+                    <div class="show active owl-carousel" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
+                        <div class="row1 align-items-center">
+                            <div class="col-lg-4 col-md-6">
+                                <div class="single__program">
+                                    <div class="program_thumb">
+                                        <img src="/img/about/Maksat.png" alt="Максат Кузембаев">
+                                    </div>
+                                    <div class="name">
+                                        <p class="maksat">Максат Кузембаев</p>
+                                        <p class="founder">Founder</p>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<div class="slider_area">
-    <div class="popular_program_area section__padding single_slider3 slider_bg_3">
-        <div class="container">
-            <div class="tab-content" id="nav-tabContent">
-                <div class="show active owl-carousel" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
-                    <div class="row1 align-items-center">
-                       
-                        <div class="col-lg-6">
-                            <div class="misdiv">
-
-                                <p class="ourmission">НАША МИССИЯ:</p>
+                            <div class="col-lg-6">
+                                <div class="slider_text2">
+                                    <ul>
+                                        <li>14 лет в Business development sales marketing(B2B)</li>
+                                        <li>Отвечал за запуск и развитие QR платежей в Казахстане и СНГ</li>
+                                        <li>Adviser в сфере: Fintech, E-commerce, Marketing, PR.</li>
+                                        <li>Участие в проектах: Smart Pay, Учёт.kz, Parqour, Office- Expert</li>
+                                    </ul>
+                                </div>
                             </div>
-                            <div class="slider_text3">
-                           Вовлечь подростков в образовательный проект обучая новым навыкам и знаниям, через онлайн платформу, используя смартфон и интернет
-                            </div>
-                        </div>
-                      <div class="col-lg-6 col-md-6">
-                            <div class="mispic">
-                                <div class="program_thumb1">
-                                    <img src="/img/mission.png" alt="mission">
+                            <div class="col-lg-2">
+                                <div class="single__program">
+                                    <div class="program_thumb">
+                                        <img src="/img/about/qr.png" alt="QR">
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -97,8 +69,93 @@
             </div>
         </div>
     </div>
-</div>
+    <div class="slider_area">
+        <div class="popular_program_area section__padding single_slider3 slider_bg_3">
+            <div class="container">
+                <div class="tab-content" id="nav-tabContent">
+                    <div class="show active owl-carousel" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
+                        <div class="row1 align-items-center">
+                            <div class="col-lg-6">
+                                <div class="misdiv">
 
+                                    <p class="ourmission">НАША МИССИЯ:</p>
+                                </div>
+                                <div class="slider_text3">
+                                    Вовлечь подростков в образовательный проект обучая новым навыкам и знаниям, через онлайн
+                                    платформу, используя смартфон и интернет
+                                </div>
+                                <div class="program_thumb2">
+                                    <img src="/img/mis.png" alt="mission">
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6">
+                                <div class="mispic">
+                                    <div class="program_thumb1">
+                                        <img src="/img/mission.png" alt="mission">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="slider_area">
+        <div class="popular_program_area section__padding single_slider3 slider_bg_3">
+            <div class="container">
+                <div class="tab-content" id="nav-tabContent">
+                    <div class="show active owl-carousel" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
+                        <div class="row1 align-items-center">
+                            <div class="col-lg-6">
+
+                                <div class="our_tasks">
+                                    <div class="misdiv">
+                                        <p class="ourmission">НАШИ ЗАДАЧИ:</p>
+                                    </div>
+
+
+                                    <div class="slider_text4">
+                                        <ul>
+                                            <li class="task1">Помогать подросткам находить свое призвание: снизить
+                                                количество
+                                                выпускников,
+                                                работающих не по специальности</li>
+                                            <li class="task2">
+                                                Передавать знания и навыки, которым не обучают в школе: современные hard &
+                                                soft
+                                                skills, финансовой грамотности необходимые для построения будущей карьеры
+                                            </li>
+                                            <li class="task3">
+                                                Развитие интересов подростков в разных направлениях: креативная индустрия,
+                                                STEM,
+                                                финансы, бизнес
+                                            </li>
+                                            <li class="task4">
+                                                Открывать подросткам мир возможностей: давать знания в сфере бизнеса,
+                                                финансовой
+                                                грамотности</li>
+                                            <li class="task5">Привлекать менторов для подростков: создать площадку для
+                                                обучения
+                                                подростков
+                                                лучшими специалистами в своих сферах</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6">
+                                <div class="mispic1">
+                                    <div class="program_thumb1">
+                                        <img src="/img/boy.png" alt="task">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <!-- service_area_start  -->
     <div class="service_area gray_bg">

@@ -1497,19 +1497,38 @@ h3 {
 }
 
 .slider_text3 {
+    margin-top: 163px;
     font-size: 36px;
+}
+
+.slider_text4 {
+    margin-top: 90px;
+
+}
+
+.slider_text4 ul li {
+    position: relative;
+    /* Позиционируем для псевдоэлемента */
+    padding-left: 20px;
+    /* Добавляем отступ слева для текста */
+    margin-bottom: 20px;
+    /* Увеличиваем расстояние между пунктами */
+    font-size: 24px;
+    font-family: 'Montserrat Alternates',
+        sans-serif;
 }
 
 .misdiv {
     position: relative;
-    margin-bottom: 200px;
+
 }
 
 .ourmission {
     font-size: 64px;
     color: #000;
-    text-align: center;
+    text-align: start;
     font-weight: 600;
+    margin-top: 35px;
     font-family: 'Montserrat Alternates',
         sans-serif;
 }
@@ -1537,19 +1556,86 @@ h3 {
 .slider_area .single_slider3 {
 
     height: 1010px;
-    background-size: auto 135px;
+    background-size: auto 110px;
     background-repeat: no-repeat;
     background-position: top;
-    font-size: 32px;
+    margin-top: 60px;
+    font-size: 30px;
     font-family: 'Montserrat Alternates',
         sans-serif;
 }
 
-.mispic {
-    max-width: 790px;
-    max-height: 790px;
+.our_tasks ul {
+    list-style: none;
+    padding-left: 0;
 }
 
+.our_tasks ul li {
+    padding-left: 80px;
+    /* Расстояние между изображением и текстом */
+    position: relative;
+}
+
+.task1:before {
+    background-image: url('/img/1.png');
+    /* Путь к изображению для первого пункта */
+}
+
+.task2:before {
+    background-image: url('/img/2.png');
+    /* Путь к изображению для второго пункта */
+}
+
+.task3:before {
+    background-image: url('/img/3.png');
+    /* Путь к изображению для третьего пункта */
+}
+
+.task4:before {
+    background-image: url('/img/4.png');
+    /* Путь к изображению для четвертого пункта */
+}
+
+.task5:before {
+    background-image: url('/img/5.png');
+    /* Путь к изображению для пятого пункта */
+}
+
+.our_tasks ul li:before {
+    content: "";
+    display: block;
+    width: 60px;
+    /* Ширина изображения */
+    height: 80px;
+    /* Высота изображения */
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+    left: 0;
+    top: 15px;
+    /* Выравнивание изображения по вертикали */
+}
+
+
+.slider_area {
+    position: relative;
+}
+
+.mispic {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    max-width: 43%;
+    max-height: 81%;
+}
+
+.mispic1 {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    max-width: 43%;
+    max-height: 89%;
+}
 
 .row1 {
     display: flex;
@@ -3034,6 +3120,19 @@ h3 {
     /* Прижатие к нижнему краю */
     right: 0;
     /* Прижатие к правому краю */
+}
+
+.program_thumb2 {
+    position: relative;
+    width: 100%;
+    /* Ширина контейнера */
+
+}
+
+.program_thumb2 img {
+    width: 100%;
+    /* Чтобы изображение занимало всю доступную ширину контейнера */
+    margin-top: 120px;
 }
 
 /* line 13, ../../Arafath/CL/january 2020/243.Education/HTML/scss/_program.scss */
