@@ -1424,6 +1424,10 @@ h3 {
     background-image: url(../img/banner/banner2.png);
 }
 
+.slider_bg_3 {
+    background-image: url(../img/banner/banner2.png);
+}
+
 .qr {
     right: 0;
 }
@@ -1492,6 +1496,24 @@ h3 {
     margin-top: -220px;
 }
 
+.slider_text3 {
+    font-size: 36px;
+}
+
+.misdiv {
+    position: relative;
+    margin-bottom: 200px;
+}
+
+.ourmission {
+    font-size: 64px;
+    color: #000;
+    text-align: center;
+    font-weight: 600;
+    font-family: 'Montserrat Alternates',
+        sans-serif;
+}
+
 /* line 8, ../../Arafath/CL/january 2020/243.Education/HTML/scss/_slider.scss */
 .slider_area .single_slider {
     height: 960px;
@@ -1511,6 +1533,23 @@ h3 {
     font-family: 'Montserrat Alternates',
         sans-serif;
 }
+
+.slider_area .single_slider3 {
+
+    height: 1010px;
+    background-size: auto 135px;
+    background-repeat: no-repeat;
+    background-position: top;
+    font-size: 32px;
+    font-family: 'Montserrat Alternates',
+        sans-serif;
+}
+
+.mispic {
+    max-width: 790px;
+    max-height: 790px;
+}
+
 
 .row1 {
     display: flex;
@@ -2979,6 +3018,22 @@ h3 {
 /* line 9, ../../Arafath/CL/january 2020/243.Education/HTML/scss/_program.scss */
 .popular_program_area .single__program .program_thumb img {
     width: 100%;
+}
+
+.program_thumb1 {
+    position: relative;
+    width: 100%;
+    /* Ширина контейнера */
+
+}
+
+.program_thumb1 img {
+    width: 100%;
+    /* Чтобы изображение занимало всю доступную ширину контейнера */
+
+    /* Прижатие к нижнему краю */
+    right: 0;
+    /* Прижатие к правому краю */
 }
 
 /* line 13, ../../Arafath/CL/january 2020/243.Education/HTML/scss/_program.scss */

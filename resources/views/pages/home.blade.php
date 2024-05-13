@@ -69,6 +69,35 @@
         </div>
     </div>
 </div>
+<div class="slider_area">
+    <div class="popular_program_area section__padding single_slider3 slider_bg_3">
+        <div class="container">
+            <div class="tab-content" id="nav-tabContent">
+                <div class="show active owl-carousel" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
+                    <div class="row1 align-items-center">
+                       
+                        <div class="col-lg-6">
+                            <div class="misdiv">
+
+                                <p class="ourmission">НАША МИССИЯ:</p>
+                            </div>
+                            <div class="slider_text3">
+                           Вовлечь подростков в образовательный проект обучая новым навыкам и знаниям, через онлайн платформу, используя смартфон и интернет
+                            </div>
+                        </div>
+                      <div class="col-lg-6 col-md-6">
+                            <div class="mispic">
+                                <div class="program_thumb1">
+                                    <img src="/img/mission.png" alt="mission">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 
     <!-- service_area_start  -->
