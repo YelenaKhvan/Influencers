@@ -4,6 +4,7 @@ namespace App\Policies;
 
 use App\Models\User;
 use Illuminate\Auth\Access\Response;
+use App\Models\Dashboard;
 
 class DashboardPolicy
 {
@@ -14,13 +15,12 @@ class DashboardPolicy
     {
         //
     }
-
-    public function viewDashboard(?User $user)
+    public function viewDashboard(?User $user, Dashboard $dashboard)
     {
-        if ($user && $user->role == 'admin') {
-            return Response::allow('Разрешено');
-        }
-        return Response::deny('Запрещено');
+    if ($user && $user->role == 'admin') {
+    return Response::allow('Разрешено');
+    }
+    return Response::deny('Запрещено');
     }
 
     /**

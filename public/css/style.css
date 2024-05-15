@@ -1520,6 +1520,7 @@ h3 {
 
 .misdiv {
     position: relative;
+    width: 600px;
 
 }
 
@@ -1649,7 +1650,7 @@ h3 {
     }
 
     .slider_text2 {
-        font-size: 20px;
+        font-size: 10px;
     }
 }
 
@@ -1661,7 +1662,41 @@ h3 {
     }
 
     .slider_text2 {
+        font-size: 15px;
+    }
+
+
+    .slider_text3 {
+        margin-top: 120px;
+        font-size: 25px;
+    }
+
+
+
+    .slider_area .single_slider2 {
+
+        max-height: 800px;
         font-size: 20px;
+        font-family: 'Montserrat Alternates',
+            sans-serif;
+    }
+
+    .slider_area .single_slider3 {
+        max-height: 700px;
+    }
+
+
+    .misdiv {
+        position: relative;
+        max-width: 400px;
+        margin-top: 20px;
+
+    }
+
+    .ourmission {
+        font-size: 45px;
+        margin-top: 35px;
+
     }
 }
 
@@ -1715,10 +1750,10 @@ h3 {
         font-size: 35px;
     }
 
-    .slider_area .single_slider2 {
 
-        height: 900px;
-
+    .section__padding {
+        padding-top: 100px;
+        padding-bottom: 100px;
     }
 
 }
@@ -1730,8 +1765,77 @@ h3 {
         font-size: 55px;
     }
 
+    .section__padding {
+        padding-top: 100px;
+        padding-bottom: 0;
+    }
+
+    .slider_area .single_slider {
+
+        height: 700px;
+
+    }
+
+
     .slider_text2 {
         font-size: 21px;
+    }
+
+
+    .slider_text3 {
+        margin-top: 120px;
+        font-size: 23px;
+    }
+
+    .slider_text4 {
+        margin-top: 70px;
+
+    }
+
+    .slider_text4 ul li {
+        position: relative;
+        /* Позиционируем для псевдоэлемента */
+        padding-left: 74px;
+        /* Добавляем отступ слева для текста */
+        margin-bottom: 17px;
+        /* Увеличиваем расстояние между пунктами */
+        font-size: 14px;
+        font-family: 'Montserrat Alternates',
+            sans-serif;
+    }
+
+
+    .slider_area .single_slider2 {
+
+        max-height: 700px;
+        font-size: 20px;
+        font-family: 'Montserrat Alternates',
+            sans-serif;
+    }
+
+    .slider_area .single_slider3 {
+        max-height: 700px;
+    }
+
+    .ourmission {
+        font-size: 45px;
+        margin-top: 100px;
+
+    }
+
+    .our_tasks ul li:before {
+        content: "";
+        display: block;
+        width: 39px;
+        /* Ширина изображения */
+        height: 46px;
+        /* Высота изображения */
+        background-size: cover;
+        background-position: center;
+        position: absolute;
+        left: 3px;
+        top: 10px;
+        /* Выравнивание изображения по вертикали */
     }
 }
 
